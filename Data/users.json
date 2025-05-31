@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Narek",
+    "age": 23,
+    "email": "narek@example.com",
+    "password": "$2b$15$Hn3uzS2burMku7I254zEeu8YSB2ffr4Dz.YP5h8Qn.3PzPmEDVBK2",
+    "role": "user"
+  },
+  {
+    "name": "Manvel",
+    "age": 25,
+    "email": "manvel@examplse.com",
+    "password": "$2b$15$Ro74pBAqnNOVC.PSHQQ8KOlaoK61lrFz6G7phXctGO5ciUSIJzsWq",
+    "role": "user"
+  },
+  {
+    "name": "Donald Doe",
+    "age": "30",
+    "email": "donald@example.com",
+    "password": "$2b$15$PG3qT6ulmYjzBa2SfAUOVeLAIbznjePTx/iINQ11swSu257PJZ.sS",
+    "role": "user"
+  }
+]

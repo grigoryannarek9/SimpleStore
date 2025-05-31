@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Toyota Camry",
+    "brand": "Toyota",
+    "year": 2022,
+    "price": 25000,
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Honda Accord",
+    "brand": "Honda",
+    "year": 2021,
+    "price": 24000,
+    "available": true
+  },
+  {
+    "id": 3,
+    "name": "Tesla Model 3",
+    "brand": "Tesla",
+    "year": 2023,
+    "price": 39999,
+    "available": true
+  },
+  {
+    "id": 4,
+    "name": "Ford Mustang",
+    "brand": "Ford",
+    "year": 2020,
+    "price": 28000,
+    "available": false
+  },
+  {
+    "id": 5,
+    "name": "Chevrolet Malibu",
+    "brand": "Chevrolet",
+    "year": 2021,
+    "price": 22000,
+    "available": true
+  }
+]
